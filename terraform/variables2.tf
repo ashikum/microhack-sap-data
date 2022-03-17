@@ -16,7 +16,7 @@ variable "tags" {
 
 variable "prefix" {
   type        = string
-  default     = "sap-data"
+  default     = "sap-analytics"
 }
 
 variable "address_space" {
