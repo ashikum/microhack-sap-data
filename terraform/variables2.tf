@@ -10,7 +10,7 @@ variable "tags" {
   default = {
     environment = "landingzone"
     deployment  = "terraform"
-    microhack   = "sap-data"
+    microhack   = "sap-analytics"
   }
 }
 
