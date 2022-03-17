@@ -10,13 +10,13 @@ variable "tags" {
   default = {
     environment = "landingzone"
     deployment  = "terraform"
-    microhack   = "sap-analytics"
+    microhack   = "sap"
   }
 }
 
 variable "prefix" {
   type        = string
-  default     = "sap-analytics"
+  default     = "sap"
 }
 
 variable "address_space" {
