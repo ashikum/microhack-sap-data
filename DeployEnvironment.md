@@ -65,7 +65,8 @@ Turn off the security for Administrators and Users:
 <img src="images/gw/vm-gw4.jpg" height=300>
 
 Open `Internet Explorer` on the GW VM and use the recommended settings. The SAP .Net Connector can be downloaded from the [SAP Service Marketplace](https://support.sap.com/en/product/connectors/msnet.html). Make sure to download the version compiled with .Net Framework 4.0 for Windows 64-bit.
-
+## Alternative download: 
+If you are prompted to enter an SAP ID for the download, use this path to download the .Net connector - https://bdlsapmedia.blob.core.windows.net/levelup/sapnco30dotnet40P_24-20007348.zip?sp=rl&st=2022-03-06T09:01:13Z&se=2022-04-09T16:01:13Z&sv=2020-08-04&sr=c&sig=Lcw3ZNAR0hBCp2FlLl%2BIBH7U%2F66wD7htmjaS%2Fs3x%2Bik%3D
 * Extract the SAP connector and open the folder 
 <img src="images/gw/vm-gw-connector.png" height=300>
 
