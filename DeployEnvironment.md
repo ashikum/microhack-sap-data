@@ -11,7 +11,7 @@ If the subscription shown is not the right one change this with: \
 `az account set --subscription "YourSubscriptionName"`
 
 3. Clone the GitHub repository with the Terraform scripts: \
-`git clone https://github.com/thzandvl/microhack-sap-data`
+`git clone https://github.com/ashikum/microhack-sap-data`
 <img src="images/gw/deployTF2.jpg" height=150>
 
 4. Change Directory into the terraform folder: \
